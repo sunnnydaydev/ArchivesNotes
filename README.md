@@ -48,7 +48,7 @@
 
 五、安卓相关
 
-1、四大组件
+1、四大组件相关
 
 >Activity:
 >
@@ -59,6 +59,20 @@
 >[Activity的切换动画参考：Android动画深入分析-View动画-三.2](https://blog.csdn.net/qq_38350635/article/details/91355551)
 >
 >[Activity的工作流程](https://blog.csdn.net/qq_38350635/article/details/95048880)
+>
+
+>Service:
+>
+
+>BroadcastReceiver：
+>
+
+>ContentProvider：
+>
+>
+
+>Fragment：
+>
 >
 
 

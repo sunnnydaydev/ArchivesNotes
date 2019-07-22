@@ -15,7 +15,7 @@
 >
 >（5）安卓典型的RecyclerView item点击事件栗子）
 
-2、枚举
+[2、枚举](https://blog.csdn.net/qq_38350635/article/details/96860995)
 
 [3、泛型](https://blog.csdn.net/qq_38350635/article/details/96610916)
 

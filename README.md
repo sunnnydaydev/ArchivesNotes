@@ -56,6 +56,8 @@
 >
 >[Activity的生命周期和启动模式(二)](https://blog.csdn.net/qq_38350635/article/details/88878310)
 >
+>[Activity的切换动画参考：Android动画深入分析-View动画-三.2](https://blog.csdn.net/qq_38350635/article/details/91355551)
+>
 >[Activity的工作流程](https://blog.csdn.net/qq_38350635/article/details/95048880)
 >
 

@@ -76,7 +76,7 @@
 >
 
 
-2、Webview、
+2、控件相关
 
 3、自定义view相关
 
@@ -96,7 +96,7 @@
          
 5、 系统高级UI material系列
 
-6、框架：okhttp、retrofit、rxjava封装
+6、流行框架：okhttp、retrofit、rxjava封装
    
    小说、音乐（考察服务）、视屏、（抖音系列）商城（modelMall kt版本修改）、工具类时钟（考察广播等等）。     
 

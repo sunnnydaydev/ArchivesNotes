@@ -1,45 +1,8 @@
 --------------------------------------------------------------目录--------------------------------------------------------------------
 
-一、java 基础增强篇
+[一、java 基础增强篇](https://github.com/sunnnydaydev/Notes/blob/master/java%E8%BF%9B%E9%98%B6.md)
 
-[1、接口回调](https://blog.csdn.net/qq_38350635/article/details/88233916)
->内含：
->
->（1）接口回调案例引申
->
->（2）java的接口回调栗子
->
->（3）安卓View点击事件接口回调分析
->
->（4）实战接口回调自定义点击事件
->
->（5）安卓典型的RecyclerView item点击事件栗子）
-
-[2、枚举](https://blog.csdn.net/qq_38350635/article/details/96860995)
-
-[3、泛型](https://blog.csdn.net/qq_38350635/article/details/96610916)
-
-5、注解
-
-6、反射
-
-7、多线程
-
-二、jvm相关
-
-1、内存区域
-
-2、垃圾回收
-
-3、虚拟机性能监测
-
-4、调优
-
-5、类加载
-
-6、注解处理器
-
-7、并发原理（参考：计算机组成原理并发）。
+[二、jvm相关](https://github.com/sunnnydaydev/Notes/blob/master/java%E8%BF%9B%E9%98%B6.md)
 
 [三、数据结构 +算法（刷题leedcode）](https://github.com/sunnnydaydev/DataStructure)
 
@@ -76,7 +39,7 @@
 >
 
 
-2、控件相关
+2、
 
 3、自定义view相关
 
@@ -87,30 +50,56 @@
 （3）canvas和path
 
   实战 ： 
-  
-    自定义时钟（小米时钟 界面）
-    
-    垃圾清理（手机管家 界面）
 
-4、  listview 、recyclerview FrameLayout、LinearLayout源码  
-         
-5、 系统高级UI material系列
+    自定义时钟（小米时钟 界面）
+
+    垃圾清理（手机管家 界面）
+4、  重要控件
+
+> design风格控件
+>
+> Viewpager各种特效
+>
+> Recyclerview 自定义layoutManager等
+>
+> FrameLayout源码 
+>
+> LinearLayout源码 
+>
+> WebView
+
+​         
+5、数据持久化
+
+> 原生数据库
+>
+> SP
+>
+> Green Dao
 
 6、流行框架：okhttp、retrofit、rxjava封装
-   
+
    小说、音乐（考察服务）、视屏、（抖音系列）商城（modelMall kt版本修改）、工具类时钟（考察广播等等）。     
 
 7、安卓进阶
 
-   性能优化（百度云高级进阶）
-   
-   设计模式情景运用实战（百度云 安卓进阶之旅系统架构）
-   
-   mvp、mvvm、模块化（路由转发 、EventBus）
-   
-   热修复、 smali、插件化 、hook XPosed
-   
-   架构师进阶（架构师全套）
+   [(1)Android性能优化](https://blog.csdn.net/qq_38350635/article/details/89430523)
+
+
+
+   (2)安卓架构
+
+> [mvp](https://blog.csdn.net/qq_38350635/article/details/89488965)
+>
+> mvvm
+>
+> 模块化（路由转发 、EventBus）
+
+   (3 )热修复、 smali、插件化 、hook Xposed
+
+  (4)设计模式情景运用实战（百度云 安卓进阶之旅系统架构）
+
+   (5)架构师进阶（架构师全套）
 
 8、gradle相关
 

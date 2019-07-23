@@ -78,7 +78,13 @@
 
 2、Webview、
 
-3、自定义view 、 view结合属性动画贝塞尔曲线，canvas
+3、
+
+ (1)自定义view系列
+
+（2）view结合属性动画
+
+（3）canvas和path
 
   实战 ： 
   

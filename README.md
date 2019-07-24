@@ -45,9 +45,9 @@
 
  (1) [自定义view系列](https://blog.csdn.net/qq_38350635/article/details/89294115)
 
-（2）view结合属性动画
+（2）view动画和属性动画
 
-（3）canvas和path
+（3）canvas和path相关
 
   实战 ： 
 

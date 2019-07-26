@@ -50,11 +50,11 @@
 >
 >[自定义view绘图篇--Paint与Canvas](https://blog.csdn.net/qq_38350635/article/details/97245106)
 >
+>canvas 变换
+>
 >Path 相关
 >
 >drawText 相关
->
->canvas 变换
 >
 >贝塞尔曲线
 >

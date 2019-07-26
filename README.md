@@ -45,7 +45,19 @@
 
 （2）view动画和属性动画
 
-（3）[canvas和path相关](https://blog.csdn.net/qq_38350635/article/details/97245106)
+（3）绘图篇:
+
+>
+>[自定义view绘图篇--Paint与Canvas](https://blog.csdn.net/qq_38350635/article/details/97245106)
+>
+>Path 相关
+>
+>drawText 相关
+>
+>canvas 变换
+>
+>贝塞尔曲线
+>
 
   实战 ： 
 

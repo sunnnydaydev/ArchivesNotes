@@ -52,7 +52,7 @@
 >
 >[自定义view绘图篇--Canvas的变换](https://blog.csdn.net/qq_38350635/article/details/97393484)
 >
->Path 相关
+>[自定义view绘图篇--Path](https://blog.csdn.net/qq_38350635/article/details/97499253)
 >
 >drawText 相关
 >

@@ -54,7 +54,7 @@
 >
 >[自定义view绘图篇--Path](https://blog.csdn.net/qq_38350635/article/details/97499253)
 >
->图片和文字的绘制
+>[自定义view绘图篇--图片和文字的绘制](https://blog.csdn.net/qq_38350635/article/details/97960329)
 >
 >贝塞尔曲线
 >

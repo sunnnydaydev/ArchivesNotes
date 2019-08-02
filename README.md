@@ -43,7 +43,17 @@
 
 （1） [自定义view系列](https://blog.csdn.net/qq_38350635/article/details/89294115)
 
-（2）view动画和属性动画
+（2）View动画和属性动画
+
+>[Android动画深入分析-View动画](https://blog.csdn.net/qq_38350635/article/details/91355551)
+>
+>[Android动画深入分析-属性动画初级用法](https://blog.csdn.net/qq_38350635/article/details/91407754)
+>
+>[Android动画深入分析-属性动画中级用法：TypeEvaluator](https://blog.csdn.net/qq_38350635/article/details/91447936)
+>
+>[Android动画深入分析-属性动画插值器Interpolator 和ViewPropertyAnimator使用](https://blog.csdn.net/qq_38350635/article/details/91462859)
+>
+>
 
 （3）绘图篇:
 

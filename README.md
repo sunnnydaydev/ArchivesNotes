@@ -41,7 +41,22 @@
 
 ###### 2、自定义view相关
 
-（1） [自定义view系列](https://blog.csdn.net/qq_38350635/article/details/89294115)
+（1） 自定义view系列
+>[View的事件体系（一）view基础和view的几种滑动方式](https://blog.csdn.net/qq_38350635/article/details/89067408)
+>
+>[View的事件体系（二）view的弹性滑动](https://blog.csdn.net/qq_38350635/article/details/89141033)
+>
+>[View的事件体系（三）view的事件分发机制](https://blog.csdn.net/qq_38350635/article/details/89158550)
+>
+>[View的事件体系（四）view滑动冲突](https://blog.csdn.net/qq_38350635/article/details/89205995)
+>
+>[View的工作原理（一）初认识ViewRoot、DecorView，理解MeasureSpec](https://blog.csdn.net/qq_38350635/article/details/89230661)
+>
+>[View的工作原理（二）Measure过程](https://blog.csdn.net/qq_38350635/article/details/89279993)
+>
+>[View的工作原理（三）layout和draw过程](https://blog.csdn.net/qq_38350635/article/details/89290121)
+>
+>[view知识点终篇：自定义view](https://blog.csdn.net/qq_38350635/article/details/89294115)
 
 （2）View动画和属性动画
 

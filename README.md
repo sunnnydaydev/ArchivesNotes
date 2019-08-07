@@ -30,7 +30,7 @@
 >BroadcastReceiver：
 >
 
->ContentProvider：
+>[ContentProvider](https://blog.csdn.net/qq_38350635/article/details/93721409)
 >
 >
 

@@ -13,7 +13,7 @@
 
 ###### 1、四大组件相关
 
->Activity:
+>（1）Activity:
 >
 >[Activity的生命周期和启动模式(一)](https://blog.csdn.net/qq_38350635/article/details/88855761)
 >
@@ -24,17 +24,17 @@
 >[Activity的工作流程](https://blog.csdn.net/qq_38350635/article/details/95048880)
 >
 
->Service:
+>（2）Service:
 >
 
->BroadcastReceiver：
+>（3）BroadcastReceiver：
 >
 
->[ContentProvider](https://blog.csdn.net/qq_38350635/article/details/93721409)
+>（4）[ContentProvider](https://blog.csdn.net/qq_38350635/article/details/93721409)
 >
 >
 
->Fragment：
+>（5）Fragment：
 >
 >
 

@@ -85,13 +85,14 @@
 >
 >Matrix 矩阵
 
-  实战 ： 
-
-    自定义时钟（小米时钟 界面）
-
-    垃圾清理（手机管家 界面）
-    
-   [贝塞尔曲线运用海浪](https://github.com/sunnnydaydev/CustmoViewPractise)
+（4）自定义view实战篇 ： 
+ 
+   >[贝塞尔曲线运用海浪](https://github.com/sunnnydaydev/CustmoViewPractise) 
+   >
+   >自定义时钟（小米时钟 界面）
+   >
+   >垃圾清理（手机管家 界面）
+   >
     
 ###### 3、  重要控件
 

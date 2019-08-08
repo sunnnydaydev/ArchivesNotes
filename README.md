@@ -91,7 +91,7 @@
 
     垃圾清理（手机管家 界面）
     
-    [贝塞尔曲线运用海浪](https://github.com/sunnnydaydev/CustmoViewPractise)
+   [贝塞尔曲线运用海浪](https://github.com/sunnnydaydev/CustmoViewPractise)
     
 ###### 3、  重要控件
 

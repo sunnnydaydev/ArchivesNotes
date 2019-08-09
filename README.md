@@ -89,7 +89,7 @@
  
    >[贝塞尔曲线运用海浪](https://github.com/sunnnydaydev/CustmoViewPractise) 
    >
-   >自定义时钟（小米时钟 界面）
+   >[自定义时钟（小米时钟 界面）](https://github.com/sunnnydaydev/CustmoViewPractise)
    >
    >垃圾清理（手机管家 界面）
    >

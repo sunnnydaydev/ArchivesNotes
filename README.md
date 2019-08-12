@@ -26,6 +26,7 @@
 
 >（2）Service:
 >
+>[Android的 Service](https://blog.csdn.net/qq_38350635/article/details/99292611)
 
 >（3）BroadcastReceiver：
 >

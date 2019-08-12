@@ -31,7 +31,9 @@
 >（3）BroadcastReceiver：
 >
 
->（4）[ContentProvider](https://blog.csdn.net/qq_38350635/article/details/93721409)
+>（4）ContentProvider:
+>
+>[跨进程通信的 ContentProvider](https://blog.csdn.net/qq_38350635/article/details/93721409)
 >
 >
 

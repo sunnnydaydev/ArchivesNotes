@@ -26,10 +26,11 @@
 
 >（2）Service:
 >
->[Android的 Service](https://blog.csdn.net/qq_38350635/article/details/99292611)
+>[Android四大组件---Service](https://blog.csdn.net/qq_38350635/article/details/99292611)
 
 >（3）BroadcastReceiver：
 >
+>[安卓四大组件---BroadcastReceiver](https://blog.csdn.net/qq_38350635/article/details/99445872)
 
 >（4）ContentProvider:
 >

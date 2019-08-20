@@ -40,7 +40,7 @@
 
 >（5）Fragment：
 >
->
+>[Fragment的全面认识](https://blog.csdn.net/qq_38350635/article/details/99855068)
 
 
 ###### 2、自定义view相关

@@ -102,15 +102,15 @@
 
 > design风格控件
 >
-> Viewpager各种特效
+> Viewpager
 >
-> Recyclerview 自定义layoutManager等
+> WebView
 >
 > FrameLayout源码 
 >
 > LinearLayout源码 
 >
-> WebView
+> 
 
          
 ###### 4、数据持久化

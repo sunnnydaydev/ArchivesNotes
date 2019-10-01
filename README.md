@@ -2,7 +2,7 @@
 
 ### [一、java 基础增强篇](https://github.com/sunnnydaydev/Notes/blob/master/java%E8%BF%9B%E9%98%B6.md)
 
-### [二、jvm相关](https://github.com/sunnnydaydev/Notes/blob/master/java%E8%BF%9B%E9%98%B6.md)
+### [二、jvm相关](https://github.com/sunnnydaydev/Notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvm.md)
 
 ### [三、数据结构 +算法（刷题leedcode）](https://github.com/sunnnydaydev/DataStructure)
 

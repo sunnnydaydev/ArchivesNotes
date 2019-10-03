@@ -2,7 +2,9 @@
 
 ###### 模块1：内存相关
 
-内存区域
+[走进java](https://blog.csdn.net/qq_38350635/article/details/101926382)
+
+[java内存区域与内存溢出异常](https://blog.csdn.net/qq_38350635/article/details/102005806)
 
 垃圾回收
 

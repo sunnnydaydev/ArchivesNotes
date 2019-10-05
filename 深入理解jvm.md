@@ -6,6 +6,8 @@
 
 [java内存区域与内存溢出异常](https://blog.csdn.net/qq_38350635/article/details/102005806)
 
+[OOM异常实战](https://blog.csdn.net/qq_38350635/article/details/102164205)
+
 垃圾回收
 
 性能监测

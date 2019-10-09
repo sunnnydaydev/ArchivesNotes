@@ -151,7 +151,7 @@
 
   (4)设计模式情景运用实战
 
-###### 7、gradle
+###### [7、Gradle相关](https://github.com/sunnnydaydev/Notes/blob/master/Gradle%E5%AD%A6%E4%B9%A0.md)
 
 8、安卓studio的全面认识
 

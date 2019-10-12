@@ -4,3 +4,5 @@
 
 [2、Gradle开发环境的搭建和Groovy入门](https://blog.csdn.net/qq_38350635/article/details/102405092)
 
+[3、Groovy核心语法](https://blog.csdn.net/qq_38350635/article/details/102465216)
+

@@ -12,5 +12,5 @@
 
 ###### Gradle 篇
 
-[1、Gradle的生命周期]（https://blog.csdn.net/qq_38350635/article/details/102769931）
+[1、Gradle的生命周期](https://blog.csdn.net/qq_38350635/article/details/102769931)
 

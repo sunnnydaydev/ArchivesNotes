@@ -14,3 +14,5 @@
 
 [1、Gradle的生命周期](https://blog.csdn.net/qq_38350635/article/details/102769931)
 
+[Gradle核心：Project](https://blog.csdn.net/qq_38350635/article/details/102808161)
+

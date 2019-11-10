@@ -16,3 +16,5 @@
 
 [2、Gradle核心：Project](https://blog.csdn.net/qq_38350635/article/details/102808161)
 
+[3、Gradle核心：Task及其实战](https://blog.csdn.net/qq_38350635/article/details/103000839)
+

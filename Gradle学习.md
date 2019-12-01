@@ -18,3 +18,5 @@
 
 [3、Gradle核心：Task及其实战](https://blog.csdn.net/qq_38350635/article/details/103000839)
 
+[4、Gradle：其他模块](https://blog.csdn.net/qq_38350635/article/details/103337693)
+

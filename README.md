@@ -156,7 +156,7 @@
 
 8、安卓studio的全面认识
 
-### 六、计算机网络（主要tcp、udp参考： 计算机网络第六版 谢希仁著）
+### [六、计算机网络](https://github.com/sunnnydaydev/Notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 
 ### 七、操作系统（书籍）
 

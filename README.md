@@ -11,7 +11,7 @@
 
 ### [五、安卓相关](https://github.com/sunnnydaydev/Notes/blob/master/%E5%AE%89%E5%8D%93.md)
 
-###### [六、Gradle相关](https://github.com/sunnnydaydev/Notes/blob/master/Gradle%E5%AD%A6%E4%B9%A0.md)
+### [六、Gradle相关](https://github.com/sunnnydaydev/Notes/blob/master/Gradle%E5%AD%A6%E4%B9%A0.md)
 
 ### [七、计算机网络](https://github.com/sunnnydaydev/Notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 

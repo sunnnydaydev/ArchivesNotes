@@ -1,5 +1,5 @@
 --------------------------------------------------------------目录--------------------------------------------------------------------
-### [零、其他语言入门](https://github.com/sunnnydaydev/Notes/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80.md)
+### [零、编程语言入门](https://github.com/sunnnydaydev/Notes/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80.md)
 
 ### [一、java 基础增强篇](https://github.com/sunnnydaydev/Notes/blob/master/java%E8%BF%9B%E9%98%B6.md)
 
@@ -21,6 +21,5 @@
 
 ### [九、收藏夹（好网址收藏）](https://github.com/sunnnydaydev/Favorites)
 
-### [个人博客](https://blog.csdn.net/qq_38350635)
+### [十、CSDN](https://blog.csdn.net/qq_38350635)
 
-### ps:以上在总结中完善

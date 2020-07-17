@@ -20,3 +20,5 @@
 
 [4、Gradle：其他模块](https://blog.csdn.net/qq_38350635/article/details/103337693)
 
+[5、自定义Gradle插件](https://blog.csdn.net/qq_38350635/article/details/106986739)
+

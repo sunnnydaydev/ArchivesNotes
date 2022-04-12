@@ -1,9 +1,7 @@
---------------------------------------------------------------目录---------------------------------------------------------------
+--------------------------------------------------------------目录--------------------------------------------------------------
 ### [编程语言](https://github.com/sunnnydaydev/Notes/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80.md)
 
-### [java 基础增强篇](https://github.com/sunnnydaydev/Notes/blob/master/java%E8%BF%9B%E9%98%B6.md)
-
-### [jvm相关](https://github.com/sunnnydaydev/Notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvm.md)
+### [jvm](https://github.com/sunnnydaydev/Notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvm.md)
 
 ### [数据结构](https://github.com/sunnnydaydev/DataStructure)
 
@@ -19,7 +17,7 @@
 
 ### 计算机操作系统
 
-### [Java后台](https://www.jianshu.com/nb/30595241)
+### [Java EE](https://www.jianshu.com/nb/30595241)
 
 ### [收藏夹](https://github.com/sunnnydaydev/Favorites)
 

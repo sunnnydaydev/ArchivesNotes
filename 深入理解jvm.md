@@ -1,12 +1,8 @@
-### 深入理解jvm
+# [深入理解jvm](https://blog.csdn.net/qq_38350635/category_9398874.html?spm=1001.2014.3001.5482)
 
 ###### 模块1：内存相关
 
-[走进java](https://blog.csdn.net/qq_38350635/article/details/101926382)
-
-[java内存区域与内存溢出异常](https://blog.csdn.net/qq_38350635/article/details/102005806)
-
-[OOM异常实战](https://blog.csdn.net/qq_38350635/article/details/102164205)
+内存区域
 
 垃圾回收
 
